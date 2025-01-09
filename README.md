@@ -1,2 +1,5 @@
 # blogger
-copia de seguridad de mi blog Strong Vibes Blog 
+Copia de seguridad de mi blog Strong Vibes Blog 
+Jean Moreira 
+2A Matutina
+jeanpa.moreto@gmail.com
